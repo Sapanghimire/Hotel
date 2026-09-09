@@ -1,0 +1,1 @@
+console.log("Hotel website is working!");
